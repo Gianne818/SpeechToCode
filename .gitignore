@@ -1,0 +1,9 @@
+# PyInstaller temporary and build outputs
+build/
+dist/
+*.spec
+
+# Local SQLite databases (if you don't want to overwrite production data)
+config.db
+
+.env.env
